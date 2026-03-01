@@ -1,0 +1,32 @@
+{
+    "13579": {
+        "id": "13579",
+        "nombre": "CAMIONETAS",
+        "cantidad": 300,
+        "precio": 80000.0
+    },
+    "24680": {
+        "id": "24680",
+        "nombre": "COMPUTADORAS DE MESA ",
+        "cantidad": 50,
+        "precio": 1800.0
+    },
+    "12457": {
+        "id": "12457",
+        "nombre": "SILLAS GAYMER ",
+        "cantidad": 300,
+        "precio": 160.0
+    },
+    "97531": {
+        "id": "97531",
+        "nombre": "LAPTOS ",
+        "cantidad": 90,
+        "precio": 2000.0
+    },
+    "75310": {
+        "id": "75310",
+        "nombre": "BUSES",
+        "cantidad": 80,
+        "precio": 200000.0
+    }
+}
