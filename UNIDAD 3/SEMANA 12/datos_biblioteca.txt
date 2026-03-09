@@ -1,0 +1,57 @@
+{
+    "libros": {
+        "ISBN001": {
+            "titulo": "El Quijote",
+            "autor": "Miguel de Cervantes",
+            "categoria": "Novela",
+            "isbn": "ISBN001"
+        },
+        "ISBN002": {
+            "titulo": "1984",
+            "autor": "George Orwell",
+            "categoria": "Ciencia Ficci\u00f3n",
+            "isbn": "ISBN002"
+        },
+        "ISBN003": {
+            "titulo": "Cien a\u00f1os de soledad",
+            "autor": "Gabriel Garc\u00eda M\u00e1rquez",
+            "categoria": "Realismo M\u00e1gico",
+            "isbn": "ISBN003"
+        },
+        "PY101": {
+            "titulo": "Python Crash Course",
+            "autor": "Eric Matthes",
+            "categoria": "Programaci\u00f3n",
+            "isbn": "PY101"
+        },
+        "GYM303": {
+            "titulo": "Enciclopedia del Culturismo",
+            "autor": "Arnold Schwarzenegger",
+            "categoria": "Deporte",
+            "isbn": "GYM303"
+        },
+        "FIS202": {
+            "titulo": "Fundamentos de Termodin\u00e1mica",
+            "autor": "Gordon Van Wylen",
+            "categoria": "F\u00edsica",
+            "isbn": "FIS202"
+        }
+    },
+    "usuarios": {
+        "U100": {
+            "nombre": "Taylor",
+            "id_usuario": "U100",
+            "libros_prestados": []
+        },
+        "U200": {
+            "nombre": "Kerly",
+            "id_usuario": "U200",
+            "libros_prestados": []
+        },
+        "U300": {
+            "nombre": "Yamila",
+            "id_usuario": "U300",
+            "libros_prestados": []
+        }
+    }
+}
