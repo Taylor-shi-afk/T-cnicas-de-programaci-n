@@ -13,7 +13,7 @@ class AplicacionGUI:
         self.root.geometry("400x450")
         self.root.config(padx=20, pady=20)
 
-        # --- Requisito: Diseño de la Interfaz (Etiquetas, Botones, Campos, Lista) ---
+        # Requisito: Diseño de la Interfaz (Etiquetas, Botones, Campos, Lista)
 
         # Etiqueta (Label)
         self.lbl_instruccion = tk.Label(root, text="Ingrese un nuevo dato:", font=("Arial", 10))
@@ -45,7 +45,7 @@ class AplicacionGUI:
         self.lista_datos = tk.Listbox(root, width=50, height=12, font=("Arial", 10))
         self.lista_datos.pack(fill="both", expand=True)
 
-    # --- Requisito: Eventos y Lógica de Funcionalidad ---
+    #  Requisito: Eventos y Lógica de Funcionalidad
 
     def agregar_dato(self):
         """
@@ -78,7 +78,7 @@ class AplicacionGUI:
             self.lista_datos.delete(seleccion)
 
 
-# --- Bloque principal de ejecución ---
+# Bloque principal de ejecución
 if __name__ == "__main__":
     # Crear la ventana principal de Tkinter
     ventana_principal = tk.Tk()
